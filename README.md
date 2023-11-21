@@ -22,8 +22,8 @@ Project consists of a simple Visual Studio form that allows users to play a game
 
 
 <p align="center">
-Game Screen: <br/>
-<img src="https://imgur.com/H0BWStv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Input and output: <br/>
+<img src="https://imgur.com/2a1WJuF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Win Screen: <br/>
